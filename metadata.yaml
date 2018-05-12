@@ -1,0 +1,35 @@
+_repo: Nuevo-plan-de-fronteras-de-la-provincia-de-Buenos-Aires-proyectado-en-1816_27757
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: García, Pedro Andrés
+    aliases:
+    - De Sobrecasa y García de Bustamente, Pedro Andrés García
+    - De Bustamente, Pedro Andrés García de Sobrecasa y García
+    - Garcia, Pedro Andres
+    - Sobrecasa y García de Bustamente, Pedro Andrés García de
+    - Bustamente, Pedro Andrés García de Sobrecasa y García de
+    birthdate: 1758
+    deathdate: 1833
+    gutenberg_agent_id: '32891'
+    url: http://www.gutenberg.org/2009/agents/32891
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2009-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27757'
+  lccn: 05041582
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2801'
+- !lcsh 'Buenos Aires (Argentina : Province) -- Boundaries'
+- !lcsh 'Argentina -- Boundaries'
+title: Nuevo plan de fronteras de la provincia de Buenos Aires, proyectado en 1816
+url: http://www.gutenberg.org/ebooks/27757
