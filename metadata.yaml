@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '32891'
     url: http://www.gutenberg.org/2009/agents/32891
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27757#Nuevo-plan-de-fronteras-de-la-provincia-de-Buenos-Aires-proyectado-en-1816
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2009-01-09'
 gutenberg_type: Text
